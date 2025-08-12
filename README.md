@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shantanu Danej</h1>
 
 
-<h3 align="center">Java Full Stack Developer | Spring Boot | React |</br> 
+<h3 align="center">Java Full Stack Developer | Spring Boot | React </br> 
    Problem Solver | ML Enthusiastic</h3>
 
 
