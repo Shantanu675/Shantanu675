@@ -68,7 +68,7 @@
 
   <img src="https://skillicons.dev/icons?i=java,spring,idea,react,js,html,css,py,mysql,mongodb,git,github,vscode" />
   
-  <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,postman,tensorflow,linux,express,numpy" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,postman,tensorflow,linux,express,netlify" />
 
   
 </p>
