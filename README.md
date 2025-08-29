@@ -132,6 +132,7 @@
 
 
 - 🧠 **[AI-Powered Code Review](https://github.com/Shantanu675)** – MERN + Gemini AI
+  
 
 - 🏨 **[Post ](https://github.com/Shantanu675)** – JWT Authentication , User Create/Read/Update/Delete Post, Role Based Access
 
@@ -210,7 +211,7 @@
 
 
 
-
+<!--
 ## 📚 Certifications
 
 
@@ -220,13 +221,9 @@
 - 📜 Infosys Java Programming Essentials
 
 
-- 📜 IBM Relational Database Fundamentals
 
-
-- 📜 IIT Hyderabad – Wireless Security Bootcamp  
-
-
-🔗 [View All Certificates](https://drive.google.com/drive/folders/1YAh17d_Tt01xJbvpcDgesyoLgsBcyLPV?=drive_link)
+🔗 [View All Certificates](https://drive.google.com/)
+-->
 
 
 
@@ -287,7 +284,7 @@
 
 
 
-
+<!--
 
 ## ✨ Fun Facts
 
@@ -302,7 +299,7 @@
 
 
 - 💡 I love discussing code optimization & compiler internals
-
+-->
 
 
 
