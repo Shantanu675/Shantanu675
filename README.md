@@ -136,7 +136,7 @@
 - 🏨 **[Post ](https://github.com/Shantanu675)** – JWT Authentication , User Create/Read/Update/Delete Post, Role Based Access
 
 
-- 💳 **[Cloude Service](https://github.com/Shantanu675)** – React + Razorpay + Role-based access + File Uploaand Management
+- 💳 **[Cloude Service](https://github.com/Shantanu675)** – React + Razorpay + Role-based access + File Upload Management
 
 
 
