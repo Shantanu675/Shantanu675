@@ -45,7 +45,7 @@
 🌱 Currently learning: **Spring Cloud, FastAPI, DevOps (Docker, Jenkins)**  
 
 
-🧠 Always up for solving new challenges and system design problems
+🧠 Always up for solving new challenges & system design problems
 
 
 
