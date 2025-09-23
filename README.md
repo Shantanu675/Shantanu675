@@ -30,7 +30,7 @@
 
 
 
-🎓 **B.Tech IT** @ SGGS Institute of Engineering and Technology, Nanded  
+🎓 **B.Tech IT** at SGGS Institute of Engineering and Technology, Nanded  
 
 
 🏆 Java Full Stack Developer | MERN Stack   
