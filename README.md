@@ -33,7 +33,7 @@
 🎓 **B.Tech IT** at SGGS Institute of Engineering and Technology, Nanded  
 
 
-🏆 Java Full Stack Developer | MERN Stack   
+🏆 Java Full Stack Developer , MERN Stack   
 
 
 💼 Completed Internship at IIT Hydrabad as a Python Intern  
