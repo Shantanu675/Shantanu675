@@ -134,13 +134,13 @@
 - 🧠 **[AI-Powered Code Review](https://github.com/Shantanu675)** – MERN + Gemini AI
 
 
-- 🗺️ **[OptiPath](https://github.com/Shantanu675)** – SpingBoot (RestAPI) + Dijkstra's algorithm + React
+- 🗺️ **[OptiPath](https://github.com/Shantanu675)** – SpringBoot (RestAPI) + Dijkstra's algorithm + React
   
 
 - 📁 **[Post ](https://github.com/Shantanu675)** – JWT Authentication , User Create/Read/Update/Delete Post, Role Based Access
 
 
-- 🗫 **[SocketChat](https://github.com/Shantanu675)** – SpingBoot + WebSocket + Basic Frontend
+- 🗫 **[SocketChat](https://github.com/Shantanu675)** – SpringBoot + WebSocket + Basic Frontend
 
 
 
