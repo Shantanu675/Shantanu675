@@ -92,7 +92,7 @@
 <p align="center">
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shantanu675&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shantanu675&show_icons=true&theme=tokyonight" height="160">
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu675&layout=compact&theme=tokyonight">
