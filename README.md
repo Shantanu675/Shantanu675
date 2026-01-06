@@ -37,12 +37,6 @@
 
 ## 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shantanu675&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu675&layout=compact&theme=tokyonight">
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shantanu675&theme=tokyonight" />
 </p>
@@ -78,6 +72,7 @@
 
 - 📜 [CodeChef](https://www.codechef.com/users/shantanudanej): **500+ problems solved**
 
+<!--
 ---
 
 ## 🏆 GitHub Trophies & Activity
