@@ -29,16 +29,19 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,idea,react,js,html,css,py,mysql,mongodb,git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,postman,tensorflow,linux,express,netlify,vercel,aws,docker" />
+   <img src="https://skillicons.dev/icons?i=java,spring,idea,react,js,html,css,py,mysql,mongodb,git,github,vscode" />
+   <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,postman,tensorflow,linux,express,netlify,vercel,aws,docker" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
+
+
 
 
 ---
