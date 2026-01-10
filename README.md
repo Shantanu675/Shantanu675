@@ -29,16 +29,17 @@
 
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=java,spring,idea,react,js,html,css,py,mysql,mongodb,git,github,vscode" />
-   <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,postman,tensorflow,linux,express,netlify,vercel,aws,docker" />
+   <img src="https://skillicons.dev/icons?i=java,spring,idea,react,js,html,css,py,mysql,postgres,mongodb,git,github,vscode" />
+   <img src="https://skillicons.dev/icons?i=c,cpp,postman,linux,netlify,vercel,aws,docker,redis,kafka,appwrite" />
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=blue"/>
+   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=orange"/>
+   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=blue"/>
+   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Scikit--Learn-F7831E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TensorFlow-501E9E?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
 </p>
 
 
@@ -75,11 +76,11 @@
 
 ## 🧠 Coding Profiles
 
-- 👨‍💻 [GeeksforGeeks](https://www.geeksforgeeks.org/user/shantanu2b7s/): **Top 10%** (20+ DSA Qs)
+- 👨‍💻 [GeeksforGeeks](https://www.geeksforgeeks.org/user/shantanu2b7s/): **Top 10%** (100+ DSA Questions)
 
 - 💪 [HackerRank](https://www.hackerrank.com/profile/shantanudanej05): **5★ Problem Solving**
 
-- 🚀 [LeetCode](https://leetcode.com/ShantanuDanej/): **250+ problems solved**
+- 🚀 [LeetCode](https://leetcode.com/ShantanuDanej/): **300+ problems solved**
 
 - 📜 [CodeChef](https://www.codechef.com/users/shantanudanej): **500+ problems solved**
 
