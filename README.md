@@ -83,6 +83,8 @@
 
 - 📜 [CodeChef](https://www.codechef.com/users/shantanudanej): **500+ problems solved**
 
+- 📚 [TakeUForward](https://takeuforward.org/profile/ShantanuDanej): **150+ problems solved**
+
 <!--
 ---
 
