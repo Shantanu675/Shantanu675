@@ -50,9 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shantanu675&theme=tokyonight" />
+   <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Shantanu675&theme=tokyonight"></td><td width="50%" align="center">
 </p>
-
 
 ## 📊 GitHub Profile Summary Card
 
