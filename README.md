@@ -79,7 +79,7 @@
 
 - 💪 [HackerRank](https://www.hackerrank.com/profile/shantanudanej05): **5★ Problem Solving**
 
-- 🚀 [LeetCode](https://leetcode.com/ShantanuDanej/): **300+ problems solved**
+- 🚀 [LeetCode](https://leetcode.com/ShantanuDanej/): **350+ problems solved**
 
 - 📜 [CodeChef](https://www.codechef.com/users/shantanudanej): **500+ problems solved**
 
