@@ -62,14 +62,17 @@
 ---
 
 ## 📌 Projects
+- 💰 **[SwiftPay](https://github.com/Shantanu675/SwiftPay)** – SpringBoot, Microservices, Kafka, MySQL, Redis(Rate Limiter), React, JWT, Docker
 
-- 🧠 **[AI-Powered Code Review](https://github.com/Shantanu675)** – MERN + Gemini AI
+- 🚗 **[Car Price Prediction](https://huggingface.co/spaces/Shantanu675/car_price)** – machine Learning, Python, Scikit Learn, HuggingFace
 
-- 🗺️ **[OptiPath](https://github.com/Shantanu675)** – SpringBoot (RestAPI) + Dijkstra's algorithm + React
+- 🧠 **[AI-Powered Code Review](https://github.com/Shantanu675/)** – MERN + Gemini AI
+
+- 🗺️ **[OptiPath](https://optipath-shantanu.netlify.app/)** – SpringBoot (RestAPI) + Dijkstra's algorithm + React
 
 - 📁 **[BlogForge](https://post-app-shantanu.vercel.app/)** – JWT Authentication , User Create, Read, Update, Delete Post, Role Based Access
 
-- 🗫 **[SocketChat](https://github.com/Shantanu675)** – SpringBoot + WebSocket + Basic Frontend
+- 🗫 **[SocketChat](https://socket-chat-pwla.onrender.com/)** – SpringBoot + WebSocket + Basic Frontend
 
 ---
 
@@ -83,7 +86,7 @@
 
 - 📜 [CodeChef](https://www.codechef.com/users/shantanudanej): **500+ problems solved**
 
-- 📚 [TakeUForward](https://takeuforward.org/profile/ShantanuDanej): **150+ problems solved**
+- 📚 [TakeUForward](https://takeuforward.org/profile/ShantanuDanej): **200+ problems solved**
 
 <!--
 ---
