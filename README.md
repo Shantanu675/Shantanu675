@@ -29,8 +29,8 @@
 
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=java,spring,idea,react,js,html,css,py,mysql,postgres,mongodb,git,github,vscode" />
-   <img src="https://skillicons.dev/icons?i=c,cpp,postman,linux,netlify,vercel,aws,docker,redis,kafka,appwrite" />
+   <img src="https://skillicons.dev/icons?i=java,spring,idea,react,js,html,css,py,mysql,mongodb,git,github,vscode" />
+   <img src="https://skillicons.dev/icons?i=c,postman,linux,netlify,vercel,aws,docker,redis,kafka,appwrite" />
 </p>
 
 <p align="center">
@@ -39,7 +39,6 @@
    <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=blue"/>
    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=black"/>
    <img src="https://img.shields.io/badge/Scikit--Learn-F7831E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-   <img src="https://img.shields.io/badge/TensorFlow-501E9E?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
 </p>
 
 
