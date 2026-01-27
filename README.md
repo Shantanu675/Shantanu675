@@ -63,7 +63,7 @@
 ## 📌 Projects
 - 💰 **[SwiftPay](https://github.com/Shantanu675/SwiftPay)** – SpringBoot, Microservices, Kafka, MySQL, Redis(Rate Limiter), React, JWT, Docker
 
-- 🚗 **[Car Price Prediction](https://huggingface.co/spaces/Shantanu675/car_price)** – machine Learning, Python, Scikit Learn, HuggingFace
+- 🚗 **[Car Price Prediction](https://huggingface.co/spaces/Shantanu675/car_price)** – Machine Learning, Python, Scikit Learn, HuggingFace
 
 - 🧠 **[AI-Powered Code Review](https://github.com/Shantanu675/)** – MERN + Gemini AI
 
