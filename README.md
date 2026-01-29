@@ -36,7 +36,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=blue"/>
    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=orange"/>
-   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=blue"/>
+   <img src="https://img.shields.io/badge/Matplotlib-993300?style=for-the-badge&logo=python&logoColor=pink"/>
    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=black"/>
    <img src="https://img.shields.io/badge/Scikit--Learn-F7831E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
