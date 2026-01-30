@@ -73,7 +73,6 @@
 
 - 🗫 **[SocketChat](https://socket-chat-pwla.onrender.com/)** – SpringBoot + WebSocket + Basic Frontend
 
----
 
 ## 🧠 Coding Profiles
 
