@@ -17,11 +17,13 @@
 
 💼 Completed Internship at IIT Hydrabad as a Python Intern  
 
-📍 Based in **Pune, India**  
+📍 Based in **Maharashtra, India**  
 
 🌱 Currently learning: **Spring Cloud, FastAPI, DevOps (Docker, Jenkins)**  
 
 🧠 Always up for solving new challenges and system design problems
+
+🚀 Visit : [https://shantanu-portfolio675.me/](https://shantanu-portfolio675.vercel.app/)
 
 ---
 
@@ -80,7 +82,7 @@
 
 - 💪 [HackerRank](https://www.hackerrank.com/profile/shantanudanej05): **5★ Problem Solving**
 
-- 🚀 [LeetCode](https://leetcode.com/ShantanuDanej/): **350+ problems solved**
+- 🚀 [LeetCode](https://leetcode.com/ShantanuDanej/): **400+ problems solved**
 
 - 📜 [CodeChef](https://www.codechef.com/users/shantanudanej): **500+ problems solved**
 
